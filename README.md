@@ -1,3 +1,29 @@
+# beads
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Beads - A memory upgrade for your coding agent
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+为编码 Agent 增强记忆能力的 Beads 工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # bd - Beads
 
 **Distributed graph issue tracker for AI agents, powered by [Dolt](https://github.com/dolthub/dolt).**
